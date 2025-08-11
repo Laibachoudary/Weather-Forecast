@@ -8,9 +8,15 @@ Search weather details by city name (e.g., Lahore, Islamabad, Karachi).
 
 ## Displays:
 City name
+
 Temperature (°C)
+
 Feels Like temperature (°C)
+
 Pressure (hPa)
+
 Humidity (%)
+
 Uses OpenWeatherMap API with metric units.
+
 Simple, clean UI with Lightning Layout
